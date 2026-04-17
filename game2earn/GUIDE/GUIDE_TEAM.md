@@ -2,6 +2,7 @@
 
 > **Required reading before writing any code.** This document explains how to work on the project without breaking the live website.
 
+The online website will be available on "https://game2earn.pages.dev" for now.
 ---
 
 ## 1. Branches — How We Organize Our Work

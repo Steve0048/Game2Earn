@@ -2,6 +2,7 @@
 
 > **À lire obligatoirement avant de coder.** Ce document explique comment travailler sur le projet sans casser le site en ligne.
 
+Le site en ligne sera disponible sur "https://game2earn.pages.dev" pour l'instant
 ---
 
 ## 1. Les Branches — L'organisation
